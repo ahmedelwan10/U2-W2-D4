@@ -1,0 +1,9 @@
+$primary-color: rgb(145, 60, 210);
+$secondary-color: rgb(84, 217, 148);
+
+@import 'variables';
+
+h1 {
+    color: $primary-color;
+    text-align: center;
+}

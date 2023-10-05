@@ -1,0 +1,22 @@
+/*# sourceMappingURL=style.css.map */
+.custom-bg-color {
+    background-color: rgb(145, 60, 210); }
+
+    .custom-button-color {
+        background-color: rgb(84, 217, 148);
+        border-radius: 8px;
+    }
+
+        .custom-padding-width {
+            padding-top: 1em; 
+            width: 100%; 
+            
+        
+        }
+        .custom-button-rounded {
+            background-color: white;
+          
+          
+         
+            border-radius: 8px; 
+        }
